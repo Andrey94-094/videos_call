@@ -1,0 +1,22 @@
+body {
+    background:wheat;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.stopwatch {
+    text-align: center;
+  }
+  
+  .stopwatch__display {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+  }
+  
+  .stopwatch__history {
+    margin-top: 15px;
+  }
+* {
+    margin: 0;
+    padding: 0;
+}
